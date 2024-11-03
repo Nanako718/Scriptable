@@ -7,7 +7,7 @@
  * @Date: 2023-03-22 22:34:00
  * @LastEditors: fuhao
  * @LastEditTime: 2023-03-22 22:34:00
- * @Description: BigMe.Pro 小组件 - Dracula 主题，无分割进度条
+ * @Description: BigMe.Pro 小组件 - Dracula 主题
  * @Version: 1.7
  * @License: MIT
  */
@@ -17,8 +17,8 @@ const login_url = "https://must.bigme.pro/api/v1/passport/auth/login";
 
 // 登录参数，请替换为自己的账号和密码
 const loginParams = {
-  email: "2753086015@qq.com",
-  password: "Shf071800.",
+  email: "你的账号",
+  password: "你的密码",
 };
 
 // 登录以获取授权数据
