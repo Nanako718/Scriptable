@@ -25,7 +25,7 @@
 将 `信息面板.js` 代码复制到 Scriptable 中，编辑顶部的变量以进行个性化设置，然后运行该小组件。
 
 #### 示例：
-![信息面板示例](images/information_panel_example.png)
+![信息面板示例](images/信息面板.jpg)
 
 ---
 
@@ -49,7 +49,7 @@
 将 `BigMe.Pro.js` 代码复制到 Scriptable 中，设置登录信息，然后运行该小组件。
 
 #### 示例：
-![BigMe.Pro 订阅追踪示例](images/bigme_pro_example.png)
+![BigMe.Pro 订阅追踪示例](images/BigMe.Pro.jpg)
 
 ---
 
