@@ -5,7 +5,7 @@ const User = 'DTZSGHNR ！'
 const Payday = 12 // 每月的几号发工资
 const countdown = '2025-01-20' // 自定义倒计时日期
 const exegesis = '天回家'
-const apiKey = "KGNdHg0X1LFnZOsn" // 你的API key
+const apiKey = "" // 你的API key
 
 // 获取设备的当前位置
 const location = await getLocation()
